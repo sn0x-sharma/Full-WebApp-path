@@ -178,7 +178,7 @@ website sends your username and password over the email in cleartext without sen
 
 ## [Phase 9 - Attacking access controls (IDOR, Priv esc, hidden files and directories)](./Phase%209.md)
 
-#### Completely unprotected functionalities
+### Completely unprotected functionalities
 
 142. Finding admin panel - https://www.youtube.com/watch?v=r1k2lgvK3s0
 143. Finding admin panel and hidden files and directories - https://www.youtube.com/watch?v=Z0VAPbATy1A
@@ -194,19 +194,19 @@ Privilege escalation
 
 ## [Phase 10 – Attacking Input validations (All injections, XSS and mics)](./Phase%2010.md)
 
-#### HTTP verb tampering
+### HTTP verb tampering
 
 151. Introduction HTTP verb tampering - https://www.youtube.com/watch?v=Wl0PrIeAnhs
 152. HTTP verb tampering demo - https://www.youtube.com/watch?v=bZlkuiUkQzE
 
-#### HTTP parameter pollution
+### HTTP parameter pollution
 
 153. Introduction HTTP parameter pollution - https://www.youtube.com/watch?v=Tosp-JyWVS4
 154. HTTP parameter pollution demo 1 - https://www.youtube.com/watch?v=QVZBl8yxVX0&t=11s
 155. HTTP parameter pollution demo 2 - https://www.youtube.com/watch?v=YRjxdw5BAM0
 156. HTTP parameter pollution demo 3 - https://www.youtube.com/watch?v=kIVefiDrWUw
 
-#### XSS - Cross site scripting
+### XSS - Cross site scripting
 
 157. Introduction to XSS - https://www.youtube.com/watch?v=gkMl1suyj3M158. What is XSS - https://www.youtube.com/watch?v=cbmBDiR6WaY
 159. Reflected XSS demo - https://www.youtube.com/watch?v=r79ozjCL7DA
@@ -228,7 +228,7 @@ Privilege escalation
 175. Stored XSS 4 - https://www.youtube.com/watch?v=YPUBFklUWLc
 176. Stored XSS 5 - https://www.youtube.com/watch?v=x9Zx44EV-Og
 
-#### SQL injection
+### SQL injection
 
 177. Part 1 - Install SQLi lab - https://www.youtube.com/watch?v=NJ9AA1_t1Ic&index=23&list=PLkiAz1NPnw8qEgzS7cgVMKavvOAdogsro
 178. Part 2 - SQL lab series - https://www.youtube.com/watch?v=TA2h_kUqfhU&index=22&list=PLkiAz1NPnw8qEgzS7cgVMKavvOAdogsro
@@ -260,14 +260,14 @@ https://www.youtube.com/watch?v=ygVUebdv_Ws&list=PLkiAz1NPnw8qEgzS7cgVMKavvOAdog
 199. Part 23 - Bypassing addslashes - charset mismatch -
 https://www.youtube.com/watch?v=du-jkS6-sbo&list=PLkiAz1NPnw8qEgzS7cgVMKavvOAdogsro&index=1
 
-#### NoSQL injection
+### NoSQL injection
 
 200. Introduction to NoSQL injection - https://www.youtube.com/watch?v=h0h37-Dwd_A
 201. Introduction to SQL vs NoSQL - Difference between MySQL and MongoDB with tutorial - https://www.youtube.com/watch?v=QwevGzVu_zk
 202. Abusing NoSQL databases - https://www.youtube.com/watch?v=lcO1BTNh8r8
 203. Making cry - attacking NoSQL for pentesters - https://www.youtube.com/watch?v=NgsesuLpyOg
 
-#### Xpath and XML injection
+### Xpath and XML injection
 
 204. Introduction to Xpath injection - https://www.youtube.com/watch?v=2_UyM6Ea0Yk&t=3102s
 205. Introduction to XML injection - https://www.youtube.com/watch?v=9ZokuRHo-eY
@@ -279,22 +279,22 @@ https://www.youtube.com/watch?v=du-jkS6-sbo&list=PLkiAz1NPnw8qEgzS7cgVMKavvOAdog
 211. XXE demo 2 - https://www.youtube.com/watch?v=UQjxvEwyUUw
 212. XXE demo 3 - https://www.youtube.com/watch?v=JI0daBHq6fA
 
-#### LDAP injection
+### LDAP injection
 
 213. Introduction and practical 1 - https://www.youtube.com/watch?v=-TXFlg7S9ks
 214. Practical 2 - https://www.youtube.com/watch?v=wtahzm_R8e4
 
-#### OS command injection
+### OS command injection
 
 215. OS command injection in bWAPP - https://www.youtube.com/watch?v=qLIkGJrMY9k
 216. bWAAP- OS command injection with Commiux (All levels) - https://www.youtube.com/watch?v=5-1QLbVa8YE
 
-#### Local file inclusion
+### Local file inclusion
 
 217. Detailed introduction - https://www.youtube.com/watch?v=kcojXEwolIs
 218. LFI demo 1 - https://www.youtube.com/watch?v=54hSHpVoz7A219. LFI demo 2 - https://www.youtube.com/watch?v=qPq9hIVtitI
 
-#### Remote file inclusion
+### Remote file inclusion
 
 220. Detailed introduction - https://www.youtube.com/watch?v=MZjORTEwpaw
 221. RFI demo 1 - https://www.youtube.com/watch?v=gWt9A6eOkq0
