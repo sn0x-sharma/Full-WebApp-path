@@ -1,1 +1,1 @@
- ***** Complite Web Application step by step guide *****
+Complite Web Application step by step guide
