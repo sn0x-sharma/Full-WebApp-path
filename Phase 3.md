@@ -1,5 +1,6 @@
-Phase 3 – Setting up the lab with BurpSuite and bWAPP
-MANISH AGRAWAL
+
+## Phase 3 – Setting up the lab with BurpSuite and bWAPP
+
 26. Setup lab with bWAPP - https://www.youtube.com/watch?v=dwtUn3giwTk&index=1&list=PLv95pq8fEyuivHeZB2jeC435tU3_1YGzV
 27. Set up Burp Suite - https://www.youtube.com/watch?v=hQsT4rSa_v0&list=PLv95pq8fEyuivHeZB2jeC435tU3_1YGzV&index=2
 28. Configure Firefox and add certificate - https://www.youtube.com/watch?v=hfsdJ69GSV4&index=3&list=PLv95pq8fEyuivHeZB2jeC435tU3_1YGzV

@@ -1,5 +1,8 @@
-Phase 9 - Attacking access controls (IDOR, Priv esc, hidden files and directories)
-Completely unprotected functionalities
+
+## Phase 9 - Attacking access controls (IDOR, Priv esc, hidden files and directories)
+
+```Completely unprotected functionalities```
+
 142. Finding admin panel - https://www.youtube.com/watch?v=r1k2lgvK3s0
 143. Finding admin panel and hidden files and directories - https://www.youtube.com/watch?v=Z0VAPbATy1A
 144. Finding hidden webpages with dirbusater - https://www.youtube.com/watch?v=--nu9Jq07gA&t=5s

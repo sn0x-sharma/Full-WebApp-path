@@ -1,4 +1,6 @@
-Phase 7 – Bypassing client-side controls
+
+## Phase 7 – Bypassing client-side controls
+
 110. What is hidden forms in HTML - https://www.youtube.com/watch?v=orUoGsgaYAE
 111. Bypassing hidden form fields using tamper data - https://www.youtube.com/watch?v=NXkGX2sPw7I
 112. Bypassing hidden form fields using Burp Suite (Purchase application) - https://www.youtube.com/watch?v=xahvJyUFTfM

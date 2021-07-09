@@ -1,4 +1,6 @@
-Phase 4 – Mapping the application and attack surface
+
+## Phase 4 – Mapping the application and attack surface
+
 45. Spidering - https://www.youtube.com/watch?v=97uMUQGIe14&list=PLv95pq8fEyuivHeZB2jeC435tU3_1YGzV&index=5
 46. Mapping application using robots.txt - https://www.youtube.com/watch?v=akuzgZ75zrk
 47. Discover hidden contents using dirbuster - https://www.youtube.com/watch?v=--nu9Jq07gA

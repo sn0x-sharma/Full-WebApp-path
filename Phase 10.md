@@ -1,13 +1,19 @@
-Phase 10 – Attacking Input validations (All injections, XSS and mics)
-HTTP verb tampering
+## Phase 10 – Attacking Input validations (All injections, XSS and mics)
+
+#### HTTP verb tampering
+
 151. Introduction HTTP verb tampering - https://www.youtube.com/watch?v=Wl0PrIeAnhs
 152. HTTP verb tampering demo - https://www.youtube.com/watch?v=bZlkuiUkQzE
-HTTP parameter pollution
+
+#### HTTP parameter pollution
+
 153. Introduction HTTP parameter pollution - https://www.youtube.com/watch?v=Tosp-JyWVS4
 154. HTTP parameter pollution demo 1 - https://www.youtube.com/watch?v=QVZBl8yxVX0&t=11s
 155. HTTP parameter pollution demo 2 - https://www.youtube.com/watch?v=YRjxdw5BAM0
 156. HTTP parameter pollution demo 3 - https://www.youtube.com/watch?v=kIVefiDrWUw
-XSS - Cross site scripting
+
+#### XSS - Cross site scripting
+
 157. Introduction to XSS - https://www.youtube.com/watch?v=gkMl1suyj3M158. What is XSS - https://www.youtube.com/watch?v=cbmBDiR6WaY
 159. Reflected XSS demo - https://www.youtube.com/watch?v=r79ozjCL7DA
 160. XSS attack method using burpsuite - https://www.youtube.com/watch?v=OLKBZNw3OjQ
@@ -27,7 +33,9 @@ XSS - Cross site scripting
 174. Stored XSS 3 - https://www.youtube.com/watch?v=PFG0lkMeYDc
 175. Stored XSS 4 - https://www.youtube.com/watch?v=YPUBFklUWLc
 176. Stored XSS 5 - https://www.youtube.com/watch?v=x9Zx44EV-Og
-SQL injection
+
+#### SQL injection
+
 177. Part 1 - Install SQLi lab - https://www.youtube.com/watch?v=NJ9AA1_t1Ic&index=23&list=PLkiAz1NPnw8qEgzS7cgVMKavvOAdogsro
 178. Part 2 - SQL lab series - https://www.youtube.com/watch?v=TA2h_kUqfhU&index=22&list=PLkiAz1NPnw8qEgzS7cgVMKavvOAdogsro
 179. Part 3 - SQL lab series - https://www.youtube.com/watch?v=N0zAChmZIZU&list=PLkiAz1NPnw8qEgzS7cgVMKavvOAdogsro&index=21
@@ -45,7 +53,8 @@ https://www.youtube.com/watch?v=tjFXWQY4LuA&index=12&list=PLkiAz1NPnw8qEgzS7cgVM
 189. Part 13 - POST parameter injection blind boolean and time based -
 https://www.youtube.com/watch?v=411G-4nH5jE&list=PLkiAz1NPnw8qEgzS7cgVMKavvOAdogsro&index=10
 190. Part 14 - Post parameter injection in UPDATE query -
-https://www.youtube.com/watch?v=2FgLcPuU7Vw&list=PLkiAz1NPnw8qEgzS7cgVMKavvOAdogsro&index=11191. Part 15 - Injection in insert query - https://www.youtube.com/watch?v=ZJiPsWxXYZs&list=PLkiAz1NPnw8qEgzS7cgVMKavvOAdogsro&index=9
+https://www.youtube.com/watch?v=2FgLcPuU7Vw&list=PLkiAz1NPnw8qEgzS7cgVMKavvOAdogsro&index=11
+191. Part 15 - Injection in insert query - https://www.youtube.com/watch?v=ZJiPsWxXYZs&list=PLkiAz1NPnw8qEgzS7cgVMKavvOAdogsro&index=9
 192. Part 16 - Cookie based injection - https://www.youtube.com/watch?v=-A3vVqfP8pA&list=PLkiAz1NPnw8qEgzS7cgVMKavvOAdogsro&index=8
 193. Part 17 - Second order injection -https://www.youtube.com/watch?v=e9pbC5BxiAE&list=PLkiAz1NPnw8qEgzS7cgVMKavvOAdogsro&index=7
 194. Part 18 - Bypassing blacklist filters - 1 - https://www.youtube.com/watch?v=5P-knuYoDdw&index=6&list=PLkiAz1NPnw8qEgzS7cgVMKavvOAdogsro
@@ -56,12 +65,16 @@ https://www.youtube.com/watch?v=2FgLcPuU7Vw&list=PLkiAz1NPnw8qEgzS7cgVMKavvOAdog
 https://www.youtube.com/watch?v=ygVUebdv_Ws&list=PLkiAz1NPnw8qEgzS7cgVMKavvOAdogsro&index=3
 199. Part 23 - Bypassing addslashes - charset mismatch -
 https://www.youtube.com/watch?v=du-jkS6-sbo&list=PLkiAz1NPnw8qEgzS7cgVMKavvOAdogsro&index=1
-NoSQL injection
+
+#### NoSQL injection
+
 200. Introduction to NoSQL injection - https://www.youtube.com/watch?v=h0h37-Dwd_A
 201. Introduction to SQL vs NoSQL - Difference between MySQL and MongoDB with tutorial - https://www.youtube.com/watch?v=QwevGzVu_zk
 202. Abusing NoSQL databases - https://www.youtube.com/watch?v=lcO1BTNh8r8
 203. Making cry - attacking NoSQL for pentesters - https://www.youtube.com/watch?v=NgsesuLpyOg
-Xpath and XML injection
+
+#### Xpath and XML injection
+
 204. Introduction to Xpath injection - https://www.youtube.com/watch?v=2_UyM6Ea0Yk&t=3102s
 205. Introduction to XML injection - https://www.youtube.com/watch?v=9ZokuRHo-eY
 206. Practical 1 - bWAPP - https://www.youtube.com/watch?v=6tV8EuaHI9M
@@ -71,16 +84,24 @@ Xpath and XML injection
 210. XXE demo - https://www.youtube.com/watch?v=3B8QhyrEXlU
 211. XXE demo 2 - https://www.youtube.com/watch?v=UQjxvEwyUUw
 212. XXE demo 3 - https://www.youtube.com/watch?v=JI0daBHq6fA
-LDAP injection
+
+#### LDAP injection
+
 213. Introduction and practical 1 - https://www.youtube.com/watch?v=-TXFlg7S9ks
 214. Practical 2 - https://www.youtube.com/watch?v=wtahzm_R8e4
-OS command injection
+
+#### OS command injection
+
 215. OS command injection in bWAPP - https://www.youtube.com/watch?v=qLIkGJrMY9k
 216. bWAAP- OS command injection with Commiux (All levels) - https://www.youtube.com/watch?v=5-1QLbVa8YE
-Local file inclusion
+
+#### Local file inclusion
+
 217. Detailed introduction - https://www.youtube.com/watch?v=kcojXEwolIs
 218. LFI demo 1 - https://www.youtube.com/watch?v=54hSHpVoz7A219. LFI demo 2 - https://www.youtube.com/watch?v=qPq9hIVtitI
-Remote file inclusion
+
+#### Remote file inclusion
+
 220. Detailed introduction - https://www.youtube.com/watch?v=MZjORTEwpaw
 221. RFI demo 1 - https://www.youtube.com/watch?v=gWt9A6eOkq0
 222. RFI introduction and demo 2 - https://www.youtube.com/watch?v=htTEfokaKsM

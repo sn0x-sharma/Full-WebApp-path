@@ -1,10 +1,7 @@
-Phase 5 – Understanding and exploiting OWASP top 10 vulnerabilities
 
+## Phase 5 – Understanding and exploiting OWASP top 10 vulnerabilities
 
 65. A closer look at all owasp top 10 vulnerabilities - https://www.youtube.com/watch?v=avFR_Af0KGk
-
-IBM
-
 66. Injection - https://www.youtube.com/watch?v=02mLrFVzIYU&index=1&list=PLoyY7ZjHtUUVLs2fy-ctzZDSPpawuQ28d
 67. Broken authentication and session management -
 https://www.youtube.com/watch?v=iX49fqZ8HGA&index=2&list=PLoyY7ZjHtUUVLs2fy-ctzZDSPpawuQ28d

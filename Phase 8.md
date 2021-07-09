@@ -1,4 +1,6 @@
-Phase 8 – Attacking authentication/login
+
+## Phase 8 – Attacking authentication/login
+
 126. Attacking login panel with bad password - Guess username password for the website and try different combinations
 127. Brute-force login panel - https://www.youtube.com/watch?v=25cazx5D_vw
 128. Username enumeration - https://www.youtube.com/watch?v=WCO7LnSlskE

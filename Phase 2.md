@@ -1,4 +1,6 @@
-Phase 2 – Web and Server Technology
+
+## Phase 2 – Web and Server Technology
+
 2. Basic concepts of web applications, how they work and the HTTP protocol - https://www.youtube.com/watch?v=RsQ1tFLwldY&t=7s
 3. HTML basics part 1 - https://www.youtube.com/watch?v=p6fRBGI_BY0
 4. HTML basics part 2 - https://www.youtube.com/watch?v=Zs6lzuBVK2w

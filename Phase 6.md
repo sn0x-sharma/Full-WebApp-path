@@ -1,4 +1,6 @@
-Phase 6 – Session management testing
+
+## Phase 6 – Session management testing
+
 96. Bypass authentication using cookie manipulation - https://www.youtube.com/watch?v=mEbmturLljU
 97. Cookie Security Via httponly and secure Flag - OWASP - https://www.youtube.com/watch?v=3aKA4RkAg78
 98. Penetration testing Cookies basic - https://www.youtube.com/watch?v=_P7KN8T1boc
